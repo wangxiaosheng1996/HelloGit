@@ -12,6 +12,7 @@ public class HelloWorld {
         System.out.println("主干合并冲突");
         System.out.println("分支合并冲突");
         System.out.println("在线修改");
+        System.out.println("pull后本地修改");
 
     }
 }
