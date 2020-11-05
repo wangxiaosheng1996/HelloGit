@@ -9,6 +9,7 @@ public class HelloWorld {
         System.out.println("第一次提交");
         System.out.println("第二次提交");
         System.out.println("分支提交");
+        System.out.println("分支合并冲突");
 
     }
 }
